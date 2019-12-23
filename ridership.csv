@@ -1,0 +1,299 @@
+Routes,Stop,Length,TTime,Alight,Board,Riders,Runs,LoadFac,Capacity,CapFac,StopName
+Red Line Eastbound,1,13722,251.5,0,3856,3856,20,192.8,160,24.1,Shady Grove -- EB
+Red Line Eastbound,2,11260,196.5,60,1065,4861,20,243.1,160,30.4,Rockville -- EB
+Red Line Eastbound,3,5678,141,119,1128,5870,20,293.5,160,36.7,Twinbrook -- EB
+Red Line Eastbound,4,7222,156.5,200,792,6462,20,323.1,160,40.4,White Flint -- EB
+Red Line Eastbound,5,11091,180,35,2035,8462,20,423.1,160,52.9,Grosvenor-Strathmore -- EB
+Red Line Eastbound,6,5764,120,665,360,8157,20,407.9,160,51,Medical Center -- EB
+Red Line Eastbound,7,9485,180,489,1352,9020,20,451,160,56.4,Bethesda -- EB
+Red Line Eastbound,8,4167,120,322,1230,9928,20,496.4,160,62.1,Friendship Heights -- EB
+Red Line Eastbound,9,5734,120,228,603,10303,20,515.2,160,64.4,Tenleytown-AU -- EB
+Red Line Eastbound,10,2886,120,106,979,11176,20,558.8,160,69.9,Van Ness-UDC -- EB
+Red Line Eastbound,11,4227,180,36,768,11908,20,595.4,160,74.4,Cleveland Park -- EB
+Red Line Eastbound,12,6025,120,92,878,12694,20,634.7,160,79.3,Woodley Park -- EB
+Red Line Eastbound,13,2972,120,1538,1319,12475,20,623.8,160,78,Dupont Circle -- EB
+Red Line Eastbound,14,4141,120,3496,381,9360,20,468,160,58.5,Farragut North -- EB
+Red Line Eastbound,15,1768,120,4666,3382,8076,20,403.8,160,50.5,Metro Center -- EB
+Red Line Eastbound,16,1786,120,2895,2727,7908,20,395.4,160,49.4,Gallery Place -- EB
+Red Line Eastbound,17,3435,120,1862,52,6098,20,304.9,160,38.1,Judiciary Square -- EB
+Red Line Eastbound,18,3615,120,4051,343,2390,20,119.5,160,14.9,Union Station -- EB
+Red Line Eastbound,19,5497,120,1095,134,1429,20,71.5,160,8.9,NoMa-Gallaudet U -- EB
+Red Line Eastbound,20,4522,120,179,98,1348,20,67.4,160,8.4,Rhode Island Ave -- EB
+Red Line Eastbound,21,7062,180,365,93,1076,20,53.8,160,6.7,Brookland-CUA -- EB
+Red Line Eastbound,22,10010,180,192,304,1188,20,59.4,160,7.4,Fort Totten -- EB
+Red Line Eastbound,23,7732,180,133,52,1107,20,55.4,160,6.9,Takoma -- EB
+Red Line Eastbound,24,8715,90,961,29,175,10,17.5,80,2.2,Silver Spring -- EB
+Red Line Eastbound,25,8667,180,31,4,148,10,14.8,80,1.9,Forest Glen -- EB
+Red Line Eastbound,26,9184,240,98,2,52,10,5.2,80,0.7,Wheaton -- EB
+Red Line Eastbound,27,0,0,52,0,0,0,0,0,0,Glenmont -- EB
+Red Line Westbound,28,9184,240,0,2079,2079,11,189,88,23.6,Glenmont -- WB
+Red Line Westbound,29,8667,180,7,1004,3076,11,279.6,88,35,Wheaton -- WB
+Red Line Westbound,30,8715,180,7,869,3938,11,358,88,44.8,Forest Glen -- WB
+Red Line Westbound,31,7732,180,167,3271,7042,20,352.1,160,44,Silver Spring -- WB
+Red Line Westbound,32,10010,120,47,1489,8484,20,424.2,160,53,Takoma -- WB
+Red Line Westbound,33,7062,180,297,2025,10212,20,510.6,160,63.8,Fort Totten -- WB
+Red Line Westbound,34,4522,180,248,1026,10990,20,549.5,160,68.7,Brookland-CUA -- WB
+Red Line Westbound,35,5497,120,98,899,11791,20,589.6,160,73.7,Rhode Island Ave -- WB
+Red Line Westbound,36,3615,120,515,1428,12704,20,635.2,160,79.4,NoMa-Gallaudet U -- WB
+Red Line Westbound,37,3435,120,1565,4296,15435,20,771.8,160,96.5,Union Station -- WB
+Red Line Westbound,38,1786,120,1317,168,14286,20,714.3,160,89.3,Judiciary Square -- WB
+Red Line Westbound,39,1768,120,3045,3536,14777,20,738.9,160,92.4,Gallery Place -- WB
+Red Line Westbound,40,4141,120,6103,1773,10447,20,522.4,160,65.3,Metro Center -- WB
+Red Line Westbound,41,2972,180,4800,142,5789,20,289.5,160,36.2,Farragut North -- WB
+Red Line Westbound,42,6025,120,2195,575,4169,20,208.5,160,26.1,Dupont Circle -- WB
+Red Line Westbound,43,4227,120,299,318,4188,20,209.4,160,26.2,Woodley Park -- WB
+Red Line Westbound,44,2886,120,96,165,4257,20,212.9,160,26.6,Cleveland Park -- WB
+Red Line Westbound,45,5734,120,420,183,4020,20,201,160,25.1,Van Ness-UDC -- WB
+Red Line Westbound,46,4167,120,536,118,3602,20,180.1,160,22.5,Tenleytown-AU -- WB
+Red Line Westbound,47,9485,120,629,177,3150,20,157.5,160,19.7,Friendship Heights -- WB
+Red Line Westbound,48,5764,180,1388,139,1901,20,95.1,160,11.9,Bethesda -- WB
+Red Line Westbound,49,11091,180,875,21,1047,20,52.4,160,6.5,Medical Center -- WB
+Red Line Westbound,50,7222,175.25,141,35,941,20,47.1,160,5.9,Grosvenor-Strathmore -- WB
+Red Line Westbound,51,5678,152,263,41,719,20,36,160,4.5,White Flint -- WB
+Red Line Westbound,52,11260,236.5,243,44,520,20,26,160,3.3,Twinbrook -- WB
+Red Line Westbound,53,13722,289,257,20,283,20,14.2,160,1.8,Rockville -- WB
+Red Line Westbound,54,0,0,283,0,0,0,0,0,0,Shady Grove -- WB
+Orange Line Eastbound,55,13222,180,0,2529,2529,11,229.9,88,28.7,Vienna -- EB
+Orange Line Eastbound,56,12700,240,10,979,3498,11,318,88,39.8,Dunn Loring -- EB
+Orange Line Eastbound,57,10933,180,7,735,4226,11,384.2,88,48,West Falls Church -- EB
+Orange Line Eastbound,58,13134,240,58,359,4527,11,411.5,88,51.4,East Falls Church -- EB
+Orange Line Eastbound,59,2961,120,172,888,5243,11,476.6,88,59.6,Ballston-MU -- EB
+Orange Line Eastbound,60,2449,60,41,452,5654,11,514,88,64.3,Virginia Square-GMU -- EB
+Orange Line Eastbound,61,2699,120,44,394,6004,11,545.8,88,68.2,Clarendon -- EB
+Orange Line Eastbound,62,5726,180,102,1261,7163,11,651.2,88,81.4,Court House -- EB
+Orange Line Eastbound,63,6941,180,610,1154,7707,11,700.6,88,87.6,Rosslyn -- EB
+Orange Line Eastbound,64,2839,120,949,526,7284,11,662.2,88,82.8,Foggy Bottom-GWU -- EB
+Orange Line Eastbound,65,2010,60,1986,108,5406,11,491.5,88,61.4,Farragut West -- EB
+Orange Line Eastbound,66,2363,60,1078,94,4422,11,402,88,50.3,McPherson Square -- EB
+Orange Line Eastbound,67,1890,60,2231,864,3055,11,277.7,88,34.7,Metro Center -- EB
+Orange Line Eastbound,68,1872,120,557,18,2516,11,228.7,88,28.6,Federal Triangle -- EB
+Orange Line Eastbound,69,2544,120,549,22,1989,11,180.8,88,22.6,Smithsonian -- EB
+Orange Line Eastbound,70,1754,120,714,350,1625,11,147.7,88,18.5,L'Enfant Plaza -- EB
+Orange Line Eastbound,71,3031,120,467,9,1167,11,106.1,88,13.3,Federal Center SW -- EB
+Orange Line Eastbound,72,2662,120,724,6,449,11,40.8,88,5.1,Capitol South -- EB
+Orange Line Eastbound,73,3335,120,91,12,370,11,33.6,88,4.2,Eastern Market -- EB
+Orange Line Eastbound,74,3466,60,12,17,375,11,34.1,88,4.3,Potomac Ave -- EB
+Orange Line Eastbound,75,11368,240,18,31,388,11,35.3,88,4.4,Stadium-Armory -- EB
+Orange Line Eastbound,76,4642,120,113,29,304,11,27.6,88,3.5,Minnesota Ave -- EB
+Orange Line Eastbound,77,6191,120,34,14,284,11,25.8,88,3.2,Deanwood -- EB
+Orange Line Eastbound,78,9671,180,18,2,268,11,24.4,88,3,Cheverly -- EB
+Orange Line Eastbound,79,7399,180,29,5,244,11,22.2,88,2.8,Landover -- EB
+Orange Line Eastbound,80,0,0,244,0,0,0,0,0,0,New Carrollton -- EB
+Orange Line Westbound,81,7399,180,0,2086,2086,10,208.6,80,26.1,New Carrollton -- WB
+Orange Line Westbound,82,9671,180,1,425,2510,10,251,80,31.4,Landover -- WB
+Orange Line Westbound,83,6191,120,3,335,2842,10,284.2,80,35.5,Cheverly -- WB
+Orange Line Westbound,84,4642,120,13,229,3058,10,305.8,80,38.2,Deanwood -- WB
+Orange Line Westbound,85,11368,240,38,327,3347,10,334.7,80,41.8,Minnesota Ave -- WB
+Orange Line Westbound,86,3466,60,75,220,3492,10,349.2,80,43.7,Stadium-Armory -- WB
+Orange Line Westbound,87,3335,120,14,324,3802,10,380.2,80,47.5,Potomac Ave -- WB
+Orange Line Westbound,88,2662,120,70,427,4159,10,415.9,80,52,Eastern Market -- WB
+Orange Line Westbound,89,3031,120,119,137,4177,10,417.7,80,52.2,Capitol South -- WB
+Orange Line Westbound,90,1754,120,256,63,3984,10,398.4,80,49.8,Federal Center SW -- WB
+Orange Line Westbound,91,2544,120,1010,1047,4021,10,402.1,80,50.3,L'Enfant Plaza -- WB
+Orange Line Westbound,92,1872,120,368,24,3677,10,367.7,80,46,Smithsonian -- WB
+Orange Line Westbound,93,1890,60,355,14,3336,10,333.6,80,41.7,Federal Triangle -- WB
+Orange Line Westbound,94,2363,60,931,1703,4108,10,410.8,80,51.4,Metro Center -- WB
+Orange Line Westbound,95,2010,60,869,153,3392,10,339.2,80,42.4,McPherson Square -- WB
+Orange Line Westbound,96,2839,120,1131,86,2347,10,234.7,80,29.3,Farragut West -- WB
+Orange Line Westbound,97,6941,180,902,98,1543,10,154.3,80,19.3,Foggy Bottom-GWU -- WB
+Orange Line Westbound,98,5726,120,615,419,1347,10,134.7,80,16.8,Rosslyn -- WB
+Orange Line Westbound,99,2699,120,303,54,1098,10,109.8,80,13.7,Court House -- WB
+Orange Line Westbound,100,2449,60,164,18,952,10,95.2,80,11.9,Clarendon -- WB
+Orange Line Westbound,101,2961,120,101,6,857,10,85.7,80,10.7,Virginia Square-GMU -- WB
+Orange Line Westbound,102,13134,240,519,46,384,10,38.4,80,4.8,Ballston-MU -- WB
+Orange Line Westbound,103,10933,180,36,57,405,10,40.5,80,5.1,East Falls Church -- WB
+Orange Line Westbound,104,12700,240,29,6,382,10,38.2,80,4.8,West Falls Church -- WB
+Orange Line Westbound,105,13222,240,213,4,173,10,17.3,80,2.2,Dunn Loring -- WB
+Orange Line Westbound,106,0,0,173,0,0,0,0,0,0,Vienna -- WB
+Blue Line Eastbound,127,18733,420,0,1636,1636,5,327.2,40,40.9,Franconia-Springfield -- EB
+Blue Line Eastbound,128,20245,300,7,814,2443,5,488.6,40,61.1,Van Dorn Street -- EB
+Blue Line Eastbound,129,3441,120,765,872,2550,5,510,40,63.8,King St-Old Town -- EB
+Blue Line Eastbound,130,6177,138,34,433,2949,5,589.8,40,73.7,Braddock Road -- EB
+Blue Line Eastbound,203,9837,162,0,537,3486,5,697.2,40,87.2,Potomac Yard -- NB
+Blue Line Eastbound,131,2889,120,46,79,3519,5,703.8,40,88,Ronald Reagan Washington National Airport -- EB
+Blue Line Eastbound,132,3922,120,217,634,3936,5,787.2,40,98.4,Crystal City -- EB
+Blue Line Eastbound,133,3365,60,66,472,4342,5,868.4,40,108.6,Pentagon City -- EB
+Blue Line Eastbound,134,6846,180,305,450,4487,5,897.4,40,112.2,Pentagon -- EB
+Blue Line Eastbound,135,4929,120,38,3,4452,5,890.4,40,111.3,Arlington Cemetery -- EB
+Blue Line Eastbound,63,6941,180,979,228,3701,5,740.2,40,92.5,Rosslyn -- EB
+Blue Line Eastbound,64,2839,120,918,260,3043,5,608.6,40,76.1,Foggy Bottom-GWU -- EB
+Blue Line Eastbound,65,2010,60,1408,50,1685,5,337,40,42.1,Farragut West -- EB
+Blue Line Eastbound,66,2363,60,783,58,960,5,192,40,24,McPherson Square -- EB
+Blue Line Eastbound,67,1890,60,511,406,855,5,171,40,21.4,Metro Center -- EB
+Blue Line Eastbound,68,1872,120,270,8,593,5,118.6,40,14.8,Federal Triangle -- EB
+Blue Line Eastbound,69,2544,120,167,10,436,5,87.2,40,10.9,Smithsonian -- EB
+Blue Line Eastbound,70,1754,120,155,719,1000,5,200,40,25,L'Enfant Plaza -- EB
+Blue Line Eastbound,71,3031,120,324,4,680,5,136,40,17,Federal Center SW -- EB
+Blue Line Eastbound,72,2662,120,514,1,167,5,33.4,40,4.2,Capitol South -- EB
+Blue Line Eastbound,73,3335,120,83,5,89,5,17.8,40,2.2,Eastern Market -- EB
+Blue Line Eastbound,74,3466,60,15,4,78,5,15.6,40,2,Potomac Ave -- EB
+Blue Line Eastbound,75,13644,180,15,3,66,5,13.2,40,1.7,Stadium-Armory -- EB
+Blue Line Eastbound,112,7345,180,23,6,49,5,9.8,40,1.2,Benning Road -- EB
+Blue Line Eastbound,113,5546,180,11,1,39,5,7.8,40,1,Capitol Heights -- EB
+Blue Line Eastbound,114,7981,180,13,7,33,5,6.6,40,0.8,Addison Road -- EB
+Blue Line Eastbound,115,7169,180,12,1,22,5,4.4,40,0.6,Morgan Boulevard -- EB
+Blue Line Eastbound,116,0,0,22,0,0,0,0,0,0,Largo Town Center -- EB
+Blue Line Westbound,117,7169,180,0,470,470,5,94,40,11.8,Largo Town Center -- WB
+Blue Line Westbound,118,7981,180,1,197,666,5,133.2,40,16.7,Morgan Boulevard -- WB
+Blue Line Westbound,119,5546,180,3,238,901,5,180.2,40,22.5,Addison Road -- WB
+Blue Line Westbound,120,7345,180,1,120,1020,5,204,40,25.5,Capitol Heights -- WB
+Blue Line Westbound,121,13644,180,4,141,1157,5,231.4,40,28.9,Benning Road -- WB
+Blue Line Westbound,86,3466,60,18,113,1252,5,250.4,40,31.3,Stadium-Armory -- WB
+Blue Line Westbound,87,3335,120,4,167,1415,5,283,40,35.4,Potomac Ave -- WB
+Blue Line Westbound,88,2662,120,19,180,1576,5,315.2,40,39.4,Eastern Market -- WB
+Blue Line Westbound,89,3031,120,40,75,1611,5,322.2,40,40.3,Capitol South -- WB
+Blue Line Westbound,90,1754,120,78,31,1564,5,312.8,40,39.1,Federal Center SW -- WB
+Blue Line Westbound,91,2544,120,388,1507,2683,5,536.6,40,67.1,L'Enfant Plaza -- WB
+Blue Line Westbound,92,1872,120,257,13,2439,5,487.8,40,61,Smithsonian -- WB
+Blue Line Westbound,93,1890,60,245,4,2198,5,439.6,40,55,Federal Triangle -- WB
+Blue Line Westbound,94,2363,60,558,170,1810,5,362,40,45.3,Metro Center -- WB
+Blue Line Westbound,95,2010,60,525,83,1368,5,273.6,40,34.2,McPherson Square -- WB
+Blue Line Westbound,96,2839,120,670,84,782,5,156.4,40,19.6,Farragut West -- WB
+Blue Line Westbound,97,6941,180,329,183,636,5,127.2,40,15.9,Foggy Bottom-GWU -- WB
+Blue Line Westbound,98,4929,120,272,875,1239,5,247.8,40,31,Rosslyn -- WB
+Blue Line Westbound,136,6846,180,80,4,1163,5,232.6,40,29.1,Arlington Cemetery -- WB
+Blue Line Westbound,137,3365,60,301,97,959,5,191.8,40,24,Pentagon -- WB
+Blue Line Westbound,138,3922,120,107,29,881,5,176.2,40,22,Pentagon City -- WB
+Blue Line Westbound,139,2889,120,359,18,540,5,108,40,13.5,Crystal City -- WB
+Blue Line Westbound,140,9797,191,90,8,458,5,91.6,40,11.5,Ronald Reagan Washington National Airport -- WB
+Blue Line Westbound,204,6217,109,14,30,474,5,94.8,40,11.9,Potomac Yard -- SWB
+Blue Line Westbound,141,3441,120,85,11,400,5,80,40,10,Braddock Road -- WB
+Blue Line Westbound,142,20245,300,197,26,229,5,45.8,40,5.7,King St-Old Town -- WB
+Blue Line Westbound,143,18733,420,64,14,179,5,35.8,40,4.5,Van Dorn Street -- WB
+Blue Line Westbound,144,0,0,179,0,0,0,0,0,0,Franconia-Springfield -- WB
+Silver Line Eastbound,191,10270,193,0,1124,1124,10,112.4,80,14.1,Ashburn -- SEB
+Silver Line Eastbound,192,15762,303,13,288,1399,10,139.9,80,17.5,Loudoun Gateway -- EB
+Silver Line Eastbound,193,11237,213,15,119,1503,10,150.3,80,18.8,Dulles Airport -- SEB
+Silver Line Eastbound,194,8928,167,27,713,2189,10,218.9,80,27.4,Innovation Center -- EB
+Silver Line Eastbound,195,7153,131,166,865,2888,10,288.8,80,36.1,Herndon -- EB
+Silver Line Eastbound,196,5883,106,264,276,2900,10,290,80,36.3,Reston Town Center -- SEB
+Silver Line Eastbound,107,30963,480,106,804,3598,10,359.8,80,45,Wiehle-Reston East -- EB
+Silver Line Eastbound,108,3331,120,109,308,3797,10,379.7,80,47.5,Spring Hill -- EB
+Silver Line Eastbound,109,4069,120,100,270,3967,10,396.7,80,49.6,Greensboro -- EB
+Silver Line Eastbound,110,3787,120,180,389,4176,10,417.6,80,52.2,Tysons Corner -- EB
+Silver Line Eastbound,111,24488,480,125,580,4631,10,463.1,80,57.9,McLean -- EB
+Silver Line Eastbound,58,13134,240,74,611,5168,10,516.8,80,64.6,East Falls Church -- EB
+Silver Line Eastbound,59,2961,120,313,1553,6408,10,640.8,80,80.1,Ballston-MU -- EB
+Silver Line Eastbound,60,2449,60,78,835,7165,10,716.5,80,89.6,Virginia Square-GMU -- EB
+Silver Line Eastbound,61,2699,120,109,803,7859,10,785.9,80,98.2,Clarendon -- EB
+Silver Line Eastbound,62,5726,180,193,664,8330,10,833,80,104.1,Court House -- EB
+Silver Line Eastbound,63,6941,180,929,552,7953,10,795.3,80,99.4,Rosslyn -- EB
+Silver Line Eastbound,64,2839,120,854,386,7485,10,748.5,80,93.6,Foggy Bottom-GWU -- EB
+Silver Line Eastbound,65,2010,60,1785,138,5838,10,583.8,80,73,Farragut West -- EB
+Silver Line Eastbound,66,2363,60,1082,118,4874,10,487.4,80,60.9,McPherson Square -- EB
+Silver Line Eastbound,67,1890,60,2723,1652,3803,10,380.3,80,47.5,Metro Center -- EB
+Silver Line Eastbound,68,1872,120,651,14,3166,10,316.6,80,39.6,Federal Triangle -- EB
+Silver Line Eastbound,69,2544,120,756,21,2431,10,243.1,80,30.4,Smithsonian -- EB
+Silver Line Eastbound,70,1754,120,949,987,2469,10,246.9,80,30.9,L'Enfant Plaza -- EB
+Silver Line Eastbound,71,3031,120,899,10,1580,10,158,80,19.8,Federal Center SW -- EB
+Silver Line Eastbound,72,2662,120,1210,3,373,10,37.3,80,4.7,Capitol South -- EB
+Silver Line Eastbound,73,3335,120,181,10,202,10,20.2,80,2.5,Eastern Market -- EB
+Silver Line Eastbound,74,3466,60,37,13,178,10,17.8,80,2.2,Potomac Ave -- EB
+Silver Line Eastbound,75,13644,180,50,21,149,10,14.9,80,1.9,Stadium-Armory -- EB
+Silver Line Eastbound,112,7345,180,33,6,122,10,12.2,80,1.5,Benning Road -- EB
+Silver Line Eastbound,113,5546,180,18,6,110,10,11,80,1.4,Capitol Heights -- EB
+Silver Line Eastbound,114,7981,180,39,11,82,10,8.2,80,1,Addison Road -- EB
+Silver Line Eastbound,115,7169,180,24,1,59,10,5.9,80,0.7,Morgan Boulevard -- EB
+Silver Line Eastbound,116,0,0,59,0,0,0,0,0,0,Largo Town Center -- EB
+Silver Line Westbound,117,7169,180,0,1029,1029,10,102.9,80,12.9,Largo Town Center -- WB
+Silver Line Westbound,118,7981,180,0,418,1447,10,144.7,80,18.1,Morgan Boulevard -- WB
+Silver Line Westbound,119,5546,180,8,492,1931,10,193.1,80,24.1,Addison Road -- WB
+Silver Line Westbound,120,7345,180,6,298,2223,10,222.3,80,27.8,Capitol Heights -- WB
+Silver Line Westbound,121,13644,180,11,317,2529,10,252.9,80,31.6,Benning Road -- WB
+Silver Line Westbound,86,3466,60,45,325,2809,10,280.9,80,35.1,Stadium-Armory -- WB
+Silver Line Westbound,87,3335,120,15,428,3222,10,322.2,80,40.3,Potomac Ave -- WB
+Silver Line Westbound,88,2662,120,38,534,3718,10,371.8,80,46.5,Eastern Market -- WB
+Silver Line Westbound,89,3031,120,88,216,3846,10,384.6,80,48.1,Capitol South -- WB
+Silver Line Westbound,90,1754,120,170,82,3758,10,375.8,80,47,Federal Center SW -- WB
+Silver Line Westbound,91,2544,120,848,2448,5358,10,535.8,80,67,L'Enfant Plaza -- WB
+Silver Line Westbound,92,1872,120,384,30,5004,10,500.4,80,62.6,Smithsonian -- WB
+Silver Line Westbound,93,1890,60,489,16,4531,10,453.1,80,56.6,Federal Triangle -- WB
+Silver Line Westbound,94,2363,60,1030,1649,5150,10,515,80,64.4,Metro Center -- WB
+Silver Line Westbound,95,2010,60,958,301,4493,10,449.3,80,56.2,McPherson Square -- WB
+Silver Line Westbound,96,2839,120,1283,196,3406,10,340.6,80,42.6,Farragut West -- WB
+Silver Line Westbound,97,6941,180,986,305,2725,10,272.5,80,34.1,Foggy Bottom-GWU -- WB
+Silver Line Westbound,98,5726,120,707,366,2384,10,238.4,80,29.8,Rosslyn -- WB
+Silver Line Westbound,99,2699,120,294,274,2364,10,236.4,80,29.6,Court House -- WB
+Silver Line Westbound,100,2449,60,123,155,2396,10,239.6,80,30,Clarendon -- WB
+Silver Line Westbound,101,2961,120,139,116,2373,10,237.3,80,29.7,Virginia Square-GMU -- WB
+Silver Line Westbound,102,13134,240,602,358,2129,10,212.9,80,26.6,Ballston-MU -- WB
+Silver Line Westbound,103,24488,480,48,99,2180,10,218,80,27.3,East Falls Church -- WB
+Silver Line Westbound,122,3787,120,316,41,1905,10,190.5,80,23.8,McLean -- WB
+Silver Line Westbound,123,4069,120,903,35,1037,10,103.7,80,13,Tysons Corner -- WB
+Silver Line Westbound,124,3331,120,390,5,652,10,65.2,80,8.2,Greensboro -- WB
+Silver Line Westbound,125,30963,540,185,18,485,10,48.5,80,6.1,Spring Hill -- WB
+Silver Line Westbound,126,5843,144,475,0,10,10,1,80,0.1,Wiehle-Reston East -- WB
+Silver Line Westbound,197,7153,171,5,56,61,10,6.1,80,0.8,Reston Town Center -- WB
+Silver Line Westbound,198,8928,206,41,43,63,10,6.3,80,0.8,Herndon -- WB
+Silver Line Westbound,199,11237,253,24,43,82,10,8.2,80,1,Innovation Center -- NWB
+Silver Line Westbound,200,15762,343,58,16,40,10,4,80,0.5,Dulles Airport -- WB
+Silver Line Westbound,201,10270,233,16,13,37,10,3.7,80,0.5,Loudoun Gateway -- NWB
+Silver Line Westbound,202,0,0,37,0,0,0,0,0,0,Ashburn -- NWB
+Green Line Northbound,145,8879,180,0,1178,1178,11,107.1,88,13.4,Branch Ave -- NB
+Green Line Northbound,146,7907,120,5,702,1875,11,170.5,88,21.3,Suitland -- NB
+Green Line Northbound,147,6639,180,5,978,2848,11,258.9,88,32.4,Naylor Road -- NB
+Green Line Northbound,148,5640,120,16,1485,4317,11,392.5,88,49.1,Southern Ave -- NB
+Green Line Northbound,149,6739,180,11,702,5008,11,455.3,88,56.9,Congress Heights -- NB
+Green Line Northbound,150,6086,180,76,1526,6458,11,587.1,88,73.4,Anacostia -- NB
+Green Line Northbound,151,3536,120,285,1263,7436,11,676,88,84.5,Navy Yard-Ballpark -- NB
+Green Line Northbound,152,4152,120,108,1066,8394,11,763.1,88,95.4,Waterfront -- NB
+Green Line Northbound,153,3063,120,3975,746,5165,11,469.5,88,58.7,L'Enfant Plaza -- NB
+Green Line Northbound,154,1878,60,725,18,4458,11,405.3,88,50.7,Archives -- NB
+Green Line Northbound,155,2579,120,2948,444,1954,11,177.6,88,22.2,Gallery Place -- NB
+Green Line Northbound,156,2954,60,243,72,1783,11,162.1,88,20.3,Mt Vernon Sq -- NB
+Green Line Northbound,157,2576,120,362,79,1500,11,136.4,88,17,Shaw-Howard Univ -- NB
+Green Line Northbound,158,4734,120,327,85,1258,11,114.4,88,14.3,U Street -- NB
+Green Line Northbound,159,4780,180,509,271,1020,11,92.7,88,11.6,Columbia Heights -- NB
+Green Line Northbound,160,8581,180,195,311,1136,11,103.3,88,12.9,Georgia Ave-Petworth -- NB
+Green Line Northbound,161,9925,180,615,172,693,11,63,88,7.9,Fort Totten -- NB
+Green Line Northbound,162,6932,180,48,16,661,11,60.1,88,7.5,West Hyattsville -- NB
+Green Line Northbound,163,10312,180,158,14,517,11,47,88,5.9,Prince George's Plaza -- NB
+Green Line Northbound,164,12884,180,359,3,161,11,14.6,88,1.8,College Park-U of Md -- NB
+Green Line Northbound,165,0,0,161,0,0,0,0,0,0,Greenbelt -- NB
+Green Line Southbound,166,12884,180,0,1150,1150,10,115,80,14.4,Greenbelt -- SB
+Green Line Southbound,167,10312,180,6,795,1939,10,193.9,80,24.2,College Park-U of Md -- SB
+Green Line Southbound,168,6932,180,15,764,2688,10,268.8,80,33.6,Prince George's Plaza -- SB
+Green Line Southbound,169,9925,180,6,559,3241,10,324.1,80,40.5,West Hyattsville -- SB
+Green Line Southbound,170,8581,180,1296,610,2555,10,255.5,80,31.9,Fort Totten -- SB
+Green Line Southbound,171,4780,180,88,1504,3971,10,397.1,80,49.6,Georgia Ave-Petworth -- SB
+Green Line Southbound,172,4734,120,277,2379,6073,10,607.3,80,75.9,Columbia Heights -- SB
+Green Line Southbound,173,2576,120,185,956,6844,10,684.4,80,85.6,U Street -- SB
+Green Line Southbound,174,2954,60,127,907,7624,10,762.4,80,95.3,Shaw-Howard Univ -- SB
+Green Line Southbound,175,2579,120,1249,404,6779,10,677.9,80,84.7,Mt Vernon Sq -- SB
+Green Line Southbound,176,1878,60,2533,1412,5658,10,565.8,80,70.7,Gallery Place -- SB
+Green Line Southbound,177,3063,120,690,44,5012,10,501.2,80,62.7,Archives -- SB
+Green Line Southbound,178,4152,120,3416,1065,2661,10,266.1,80,33.3,L'Enfant Plaza -- SB
+Green Line Southbound,179,3536,120,373,75,2363,10,236.3,80,29.5,Waterfront -- SB
+Green Line Southbound,180,6086,180,1589,50,824,10,82.4,80,10.3,Navy Yard-Ballpark -- SB
+Green Line Southbound,181,6739,180,340,32,516,10,51.6,80,6.5,Anacostia -- SB
+Green Line Southbound,182,5640,120,80,13,449,10,44.9,80,5.6,Congress Heights -- SB
+Green Line Southbound,183,6639,180,103,20,366,10,36.6,80,4.6,Southern Ave -- SB
+Green Line Southbound,184,7907,120,125,4,245,10,24.5,80,3.1,Naylor Road -- SB
+Green Line Southbound,185,8879,180,199,3,49,10,4.9,80,0.6,Suitland -- SB
+Green Line Southbound,186,0,0,49,0,0,0,0,0,0,Branch Ave -- SB
+Yellow Line Northbound,187,2882,60,0,1943,1943,10,194.3,80,24.3,Huntington -- NB
+Yellow Line Northbound,188,3712,120,10,364,2297,10,229.7,80,28.7,Eisenhower Ave -- NB
+Yellow Line Northbound,129,3441,120,389,1294,3202,10,320.2,80,40,King St-Old Town -- EB
+Yellow Line Northbound,130,6177,138,39,666,3829,10,382.9,80,47.9,Braddock Road -- EB
+Yellow Line Northbound,203,9837,162,2,647,4474,10,447.4,80,55.9,Potomac Yard -- NB
+Yellow Line Northbound,131,2889,120,57,124,4541,10,454.1,80,56.8,Ronald Reagan Washington National Airport -- EB
+Yellow Line Northbound,132,3922,120,256,859,5144,10,514.4,80,64.3,Crystal City -- EB
+Yellow Line Northbound,133,3365,60,83,2003,7064,10,706.4,80,88.3,Pentagon City -- EB
+Yellow Line Northbound,134,11987,300,447,1817,8434,10,843.4,80,105.4,Pentagon -- EB
+Yellow Line Northbound,153,3063,120,4441,510,4503,10,450.3,80,56.3,L'Enfant Plaza -- NB
+Yellow Line Northbound,154,1878,60,1193,8,3318,10,331.8,80,41.5,Archives -- NB
+Yellow Line Northbound,155,2579,120,3138,31,211,10,21.1,80,2.6,Gallery Place -- NB
+Yellow Line Northbound,156,0,0,211,0,0,0,0,0,0,Mt Vernon Sq -- NB
+Yellow Line Southbound,175,2579,120,0,1301,1301,10,130.1,80,16.3,Mt Vernon Sq -- SB
+Yellow Line Southbound,176,1878,60,59,1877,3119,10,311.9,80,39,Gallery Place -- SB
+Yellow Line Southbound,177,3063,120,96,48,3071,10,307.1,80,38.4,Archives -- SB
+Yellow Line Southbound,178,11987,300,488,1380,3963,10,396.3,80,49.5,L'Enfant Plaza -- SB
+Yellow Line Southbound,137,3365,60,1098,168,3033,10,303.3,80,37.9,Pentagon -- WB
+Yellow Line Southbound,138,3922,120,487,136,2682,10,268.2,80,33.5,Pentagon City -- WB
+Yellow Line Southbound,139,2889,120,1472,50,1260,10,126,80,15.8,Crystal City -- WB
+Yellow Line Southbound,140,9797,191,244,9,1025,10,102.5,80,12.8,Ronald Reagan Washington National Airport -- WB
+Yellow Line Southbound,204,6217,109,1,131,1155,10,115.5,80,14.4,Potomac Yard -- SWB
+Yellow Line Southbound,141,3441,120,243,24,936,10,93.6,80,11.7,Braddock Road -- WB
+Yellow Line Southbound,142,3712,120,689,13,260,10,26,80,3.3,King St-Old Town -- WB
+Yellow Line Southbound,189,2882,60,149,0,111,10,11.1,80,1.4,Eisenhower Ave -- SB
+Yellow Line Southbound,190,0,0,111,0,0,0,0,0,0,Huntington -- SB
